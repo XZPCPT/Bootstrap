@@ -1,0 +1,27 @@
+#header{
+    background-color: red;
+    height: 8vh;
+}
+
+#slider{
+    background-color: blue;
+    height: 48vh;
+}
+
+#artikel{
+    background-color: green;
+    height: 48vh;
+    width: 60vh;
+    margin: 16px;
+    align-content: center;
+}
+
+#afbeelding{
+    background-color: yellow;
+    height: 48vh;
+}
+
+#tekst{
+    background-color: orange;
+    height: 48vh;
+}
