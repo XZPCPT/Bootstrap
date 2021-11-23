@@ -8,17 +8,17 @@
     height: 48vh;
 }
 
-#afbeelding{
+#image{
     background-color: yellow;
     height: 48vh;
 }
 
-#tekst{
+#text{
     background-color: orange;
     height: 48vh;
 }
 
-.artikel{
+.article{
     background-color: green;
     height: 48vh;
     margin: 16px;
