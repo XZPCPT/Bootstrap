@@ -25,12 +25,12 @@
     align-content: center;
 }
 
-.col-3 {
+.col-3{
     padding: 16px;
     size: 80%;
 }
 
-.col-4 {
+.col-4{
     width: 25%;
     padding: 10px;
   }
